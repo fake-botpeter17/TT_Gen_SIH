@@ -1,0 +1,7 @@
+[project]
+name = "tt-gen-sih"
+version = "0.1.0"
+description = "Smart Classroom & Timetable Scheduler"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
